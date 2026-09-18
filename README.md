@@ -49,3 +49,7 @@ python -m pytest -q
 - Normal products are processed and included in the running average.
 - `RetryItem` simulates temporary failures and demonstrates retry logic.
 - `BrokenItem` simulates permanent failures and goes directly to the DLQ.
+
+## Demo Video Link
+
+https://drive.google.com/file/d/1R69HqznG3gGzi9_35-Dfjhez0ExpGHMs/view?usp=sharing
